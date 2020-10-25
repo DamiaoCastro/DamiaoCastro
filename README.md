@@ -1,10 +1,14 @@
 ### Hi there 👋
-
+-----
 <!--
+<a href="https://www.linkedin.com/in/damiaocastro/">
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+
 **DamiaoCastro/DamiaoCastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👯 I’m looking to collaborate on Bigdata products CI/CD
+- 🤔 I’m looking for recommendations for the best github branches and github actions setup
