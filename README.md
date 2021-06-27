@@ -19,6 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👯 I’m looking to collaborate on Bigdata products CI/CD
-- 🤔 I’m looking for recommendations for the best github branches and github actions setup
 - 📫 You can text me via linkedIn: https://www.linkedin.com/in/damiaocastro/
